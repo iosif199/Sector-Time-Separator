@@ -3,7 +3,7 @@
  *                  |             IOSIF SAAD            |
  *                  |             2020-07-11	        |
  *                  +~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
- *                  |		 Sector Time Separator	    |
+ *                  |       Sector Time Separator       |
  *                  +~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
 */
 
@@ -19,7 +19,7 @@ typedef enum{
 }bool;
 
 typedef enum{
-    NEWLINE, NEW_SECTOR, SONG, OTHER
+    NEWLINE, NEW_SECTOR, SONG
 }FILE_ACTION;
 
 typedef struct{
@@ -55,10 +55,6 @@ int main(void)
             case NEWLINE:
                 fputc('\n', output);
                 break;
-            case OTHER: /*If it finds anything else other than NEWLINE, NEW_SECTOR or SONG,
-                *          it simply adds it to the output. Something like default */
-                fputs(f_line, output);
-                break;
             case NEW_SECTOR:
                 reset_sector = true;
                 fputs(f_line, output);
@@ -66,7 +62,9 @@ int main(void)
             case SONG:
                 AddSong(output, &offset, f_line, &reset_sector);
                 break;
-            default: break;
+            default:
+                fputs(f_line, output); /*If it finds anything else it adds it to the output*/
+                break;
         }
     }
 
@@ -119,7 +117,7 @@ short int LineType(const char *line)
     if(is_line) return SONG;
     else if(strncmp(line, "SECTOR", 6) == 0) return NEW_SECTOR;
     else if(strcmp(line, "\n") == 0) return NEWLINE;
-    else return OTHER;
+    else return -1;
 }
 
 void AddSong(FILE *out, Time *offset, char *red_line, bool *reset)
