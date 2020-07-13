@@ -105,19 +105,20 @@ short int LineType(const char *line)
  * SONG, if a song timestamps are found (--h--m--s)
  * NEW_SECTOR, if the word "SECTOR" is found at the start
  * NELINE, if only a newline is red
- * OTHER, in any other case
+ * -1, in any other case
 */
-    short int is_line;
-
-    is_line = (toupper(*(line + 2)) == 'H') &&
-              (toupper(*(line + 5)) == 'M') &&
-              (toupper(*(line + 8)) == 'S');
-    //_
-
-    if(is_line) return SONG;
-    else if(strncmp(line, "SECTOR", 6) == 0) return NEW_SECTOR;
-    else if(strcmp(line, "\n") == 0) return NEWLINE;
-    else return -1;
+    if(
+	   (toupper(*(line + 2)) == 'H') &&
+       (toupper(*(line + 5)) == 'M') &&
+       (toupper(*(line + 8)) == 'S')
+	  )
+		return SONG;
+    else if(strncmp(line, "SECTOR", 6) == 0)
+		return NEW_SECTOR;
+    else if(strcmp(line, "\n") == 0)
+		return NEWLINE;
+    else
+		return -1;
 }
 
 void AddSong(FILE *out, Time *offset, char *red_line, bool *reset)
@@ -132,7 +133,7 @@ void AddSong(FILE *out, Time *offset, char *red_line, bool *reset)
     FILE *tmp;
 
     //A temporary file is created to put the contents of the line,
-    // to make our life easier to extract the timestamps
+    // to make our life easier at extracting the timestamps
     tmp = tmpfile();
     fputs(red_line, tmp);
     rewind(tmp);
@@ -214,7 +215,7 @@ void AddSongToOutput(FILE *output, Time *s_times, char *contents)
 /* Procedure which adds a given song to the output file.
  * If the hours or minutes or seconds aren't two digit numbers,
  *  a 0 is being added at the front, to make the file's alignment
- *  is pretty, and also make the file easily readable
+ *  pretty, and also make the file easily readable
 */
     if((s_times->hours / 10) <= 0) fputc('0', output);
     fprintf(output, "%uh", s_times->hours);
