@@ -1,0 +1,34 @@
+SECTOR 01 - 01h02m16s
+
+00h00m00s "Tune Nr. 2" - Klaus Grøngaard (Link)
+00h01m32s "D.Y.S.P.I.D.C.E. (part 2)" - Sami Seppä (Rock)
+00h02m33s "For Shining 8" - Markus Schneider (Diflex)
+00h03m34s "The Magic Events" - Markus Schneider & Johann H. Stoete
+00h04m35s "Alloyrun" - Jeroen Tel
+00h05m21s "Spijkerhoek 3" - Falco Paul
+00h07m28s "Ikari Union" - Jeroen Tel
+00h08m44s "Nexion" - Edwin van Santen
+00h11m32s "Strike Force Introtune" - Markus Schneider
+00h12m34s "Super Hang-On" - Steve Barrett
+00h13m50s "Delta" - Rob Hubbard
+00h15m07s "DMC Demo IV (Tune 2)" - Johannes Bjerregaard
+00h18m11s "Unitrax '88 Killermix" - Henrik Buus Jensen
+00h19m27s "Hysteria" - Fred Gray
+00h22m16s "Cosmonut" - David Whittaker
+00h23m32s "Ahead Crack Intro" - Markus Schneider (Diflex)
+00h24m21s "Robocop" - Jonathan Dunn
+00h25m53s "Task III" - Frank Endler
+00h28m29s "Pheric" - Jens-Christian Huus
+00h30m00s "K.A.O.S." - Oliver Kläwer (Jess)
+00h31m02s "Noisy Pillars" - Jeroen Tel
+00h32m19s "Think Twice IV" - Jeroen Kimmel (Red)
+00h33m56s "Coco Intro" - Markus Müller
+00h34m56s "ACE II" - Rob Hubbard
+00h40m08s "Firefly" - Fred Gray
+00h41m57s "Maniax" - Oliver Kläwer
+00h43m40s "Radax" - Jeroen Kimmel
+00h45m41s "Ark Pandora" - Ben Daglish & Antony Crowther
+00h47m25s "Glider Rider" - David Whittaker
+00h49m05s "BraveStarr" - David Whittaker
+00h52m36s "Contest Demo (part 4)" - Sami Seppä (Rock)
+00h56m35s "Spellbound" - Rob Hubbard

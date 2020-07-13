@@ -133,7 +133,7 @@ void AddSong(FILE *out, Time *offset, char *red_line, bool *reset)
     Time song_time;
     FILE *tmp;
 
-    //A temporary file is created to put the contents of the file,
+    //A temporary file is created to put the contents of the line,
     // to make our life easier to extract the timestamps
     tmp = tmpfile();
     fputs(red_line, tmp);

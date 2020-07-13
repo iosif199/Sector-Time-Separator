@@ -1,0 +1,23 @@
+SECTOR 02 - 01h01m31s
+
+00h00m00s "Sampler #1" - Jens-Christian Huus
+00h03m32s "One Man & His Droid" - Rob Hubbard
+00h09m20s "The Last Starfighter" - Thomas E. Petersen (Laxity)
+00h11m17s "Speedball" - David Whittaker
+00h13m47s "Omega Force One" - Johannes Bjerregaard
+00h14m58s "GCF-Intro" - Markus Müller (Superbrain)
+00h15m59s "Ikari Intro" - Marcel Donné (Mad)
+00h17m00s "Rocky Star (Intro)" - Kim Christensen (Future Freak)
+00h20m38s "Hurling Frootmig" - Jörg & Frank Schäfers
+00h23m06s "Ice Age" - Jeroen Tel
+00h28m45s "Basket Master" - Jonathan Dunn
+00h29m53s "Jewels" - Thomas E. Petersen (Laxity)
+00h34m39s "Beaty intro" - Jens-Christian Huus
+00h35m25s "Amyloid" - Marcel Donné (Mad)
+00h40m27s "Playboy, the Game" - Jeroen Kimmel
+00h41m17s "Contest Demo (part 2)" - Sami Seppä (Rock)
+00h43m01s "PCW-Tune '88" - Edwin van Santen
+00h46m50s "Enduro Racer" - David Whittaker
+00h49m40s "Phantoms of the Asteroid" - Rob Hubbard
+00h53m56s "K.A.O.S." - Oliver Kläwer (Jess)
+00h58m21s "Comic Bakery" - Martin Galway

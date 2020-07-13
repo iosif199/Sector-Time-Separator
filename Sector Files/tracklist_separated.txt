@@ -1,0 +1,258 @@
+The Epic Commodore C64 SID Collection
+
+https://www.youtube.com/watch?v=U9Racui9jJI#t=
+Facebook: http://tinyurl.com/EC64SC
+
+
+SECTOR 01
+
+00h00m00s "Tune Nr. 2" - Klaus Grøngaard (Link)
+00h01m32s "D.Y.S.P.I.D.C.E. (part 2)" - Sami Seppä (Rock)
+00h02m33s "For Shining 8" - Markus Schneider (Diflex)
+00h03m34s "The Magic Events" - Markus Schneider & Johann H. Stoete
+00h04m35s "Alloyrun" - Jeroen Tel
+00h05m21s "Spijkerhoek 3" - Falco Paul
+00h07m28s "Ikari Union" - Jeroen Tel
+00h08m44s "Nexion" - Edwin van Santen
+00h11m32s "Strike Force Introtune" - Markus Schneider
+00h12m34s "Super Hang-On" - Steve Barrett
+00h13m50s "Delta" - Rob Hubbard
+00h15m07s "DMC Demo IV (Tune 2)" - Johannes Bjerregaard
+00h18m11s "Unitrax '88 Killermix" - Henrik Buus Jensen
+00h19m27s "Hysteria" - Fred Gray
+00h22m16s "Cosmonut" - David Whittaker
+00h23m32s "Ahead Crack Intro" - Markus Schneider (Diflex)
+00h24m21s "Robocop" - Jonathan Dunn
+00h25m53s "Task III" - Frank Endler
+00h28m29s "Pheric" - Jens-Christian Huus
+00h30m00s "K.A.O.S." - Oliver Kläwer (Jess)
+00h31m02s "Noisy Pillars" - Jeroen Tel
+00h32m19s "Think Twice IV" - Jeroen Kimmel (Red)
+00h33m56s "Coco Intro" - Markus Müller
+00h34m56s "ACE II" - Rob Hubbard
+00h40m08s "Firefly" - Fred Gray
+00h41m57s "Maniax" - Oliver Kläwer
+00h43m40s "Radax" - Jeroen Kimmel
+00h45m41s "Ark Pandora" - Ben Daglish & Antony Crowther
+00h47m25s "Glider Rider" - David Whittaker
+00h49m05s "BraveStarr" - David Whittaker
+00h52m36s "Contest Demo (part 4)" - Sami Seppä (Rock)
+00h56m35s "Spellbound" - Rob Hubbard
+
+
+SECTOR 02
+
+00h00m00s "Sampler #1" - Jens-Christian Huus
+00h03m32s "One Man & His Droid" - Rob Hubbard
+00h09m20s "The Last Starfighter" - Thomas E. Petersen (Laxity)
+00h11m17s "Speedball" - David Whittaker
+00h13m47s "Omega Force One" - Johannes Bjerregaard
+00h14m58s "GCF-Intro" - Markus Müller (Superbrain)
+00h15m59s "Ikari Intro" - Marcel Donné (Mad)
+00h17m00s "Rocky Star (Intro)" - Kim Christensen (Future Freak)
+00h20m38s "Hurling Frootmig" - Jörg & Frank Schäfers
+00h23m06s "Ice Age" - Jeroen Tel
+00h28m45s "Basket Master" - Jonathan Dunn
+00h29m53s "Jewels" - Thomas E. Petersen (Laxity)
+00h34m39s "Beaty intro" - Jens-Christian Huus
+00h35m25s "Amyloid" - Marcel Donné (Mad)
+00h40m27s "Playboy, the Game" - Jeroen Kimmel
+00h41m17s "Contest Demo (part 2)" - Sami Seppä (Rock)
+00h43m01s "PCW-Tune '88" - Edwin van Santen
+00h46m50s "Enduro Racer" - David Whittaker
+00h49m40s "Phantoms of the Asteroid" - Rob Hubbard
+00h53m56s "K.A.O.S." - Oliver Kläwer (Jess)
+00h58m21s "Comic Bakery" - Martin Galway
+
+
+
+SECTOR 03
+
+00h00m00s "Think Twice III" - Jeroen Kimmel (Red)
+00h08m08s "R.I.S.K." - Wally Beben
+00h11m22s "M.A.C.H." - Johannes Bjerregaard
+00h14m26s "R1D1" - Antony Crowther
+00h16m46s "Give It a Try" - Charles Deenen
+00h18m43s "Ala" - Neil Baldwin
+00h21m29s "Thrust" - Rob Hubbard
+00h28m05s "Masters of the Universe" - Ben Daglish
+00h29m22s "Thanatos" - Rob Hubbard
+00h30m20s "Draconus" - Adam Gilmore
+00h33m50s "Wizball" - Martin Galway
+00h37m23s "Future Knight" - Ben Daglish
+00h40m22s "Driller" - Matt Gray
+00h50m35s "Green Beret" - Martin Galway
+00h54m22s "Miami Vice" - Martin Galway
+
+
+
+SECTOR 04
+
+00h00m00s "Stormlord" - Jeroen Tel
+00h06m08s "Arkanoid" - Martin Galway
+00h08m25s "I-Ball" - Rob Hubbard
+00h13m23s "Traz" - Jeroen Kimmel (Red)
+00h17m18s "Combat School" - Martin Galway
+00h19m35s "Starball" - Chris Hülsbeck
+00h25m11s "Fourth Dimension" - Johannes Bjerregaard
+00h30m25s "Ricochet" - Rob Hubbard
+00h33m46s "Crazy Sample II (intro)" - Jeroen Kimmel (Red)
+00h34m36s "Skate or Die (intro)" - Rob Hubbard
+00h38m42s "Bangkok Knights Loader" - Matt Gray
+00h43m25s "Lions of the Universe" - Karl & Hannes Sommer
+00h45m12s "Ocean Loader 3" - Peter Clarke
+00h48m00s "Monty on the Run" - Rob Hubbard
+00h53m49s "Erebus" - Dave Lee
+00h54m50s "Dexion Demo" - Kim Christensen (Future Freak)
+00h58m47s "Crocket's Mix" - M. Claessens (The Dream Maker)
+
+
+SECTOR 05
+
+00h00m00s "Supremacy" - Jeroen Tel
+00h03m50s "Kaos" - Markus Schneider
+00h06m15s "The Cat" - Markus Müller (Hayes)
+00h09m42s "Shadow of the Beast (demo)" - Joachim Wijnhoven
+00h11m41s "Snik" - Jeroen Soede
+00h12m59s "Alloyrun" - Jeroen Tel
+00h19m45s "Zamzara" - Charles Deenen
+00h25m15s "R-Type" - Chris Hülsbeck
+00h27m25s "DNA Warrior" - Thomas Petersen & K. Christensen
+00h31m48s "Platou" - Markus Schneider & Jens Blidon
+00h33m13s "Amyloid" - Marcel Donné (Mad)
+00h34m21s "Commando" - Rob Hubbard
+00h38m16s "Cybernoid" - Jeroen Tel
+00h44m54s "Airwolf Title" - Jeroen Soede
+00h45m58s "Crosswords" - Thomas E. Petersen (Laxity)
+00h52m08s "CosMail (tune 02)" - Karl Sommer (MC Lord)
+00h54m16s "Namnam Special" - Johannes Bjerregaard
+00h56m25s "Hoppin'" - Jens-Christian Huus
+00h57m05s "Jippie" - Ward Selles
+00h58m12s "Scorpion" - Marcel Donné (Mad)
+01h01m15s "Nefarious" - Thomas E. Petersen (Laxity)
+
+
+SECTOR 06
+
+00h00m00s "Battle Valley" - Jeroen Tel
+00h06m59s "Panther" - David Whittaker
+00h09m53s "Platoon" - Jonathan Dunn
+00h11m55s "Shadow Skimmer" - Neil Baldwin
+00h15m20s "Out Run" - Jason C. Brooke
+00h17m16s "Another Tune for Joanna" - Neil Baldwin (Demon)
+00h20m20s "Can't Stop" - Jens-Christian Huus
+00h21m21s "Funky Stuff" - Jeroen Soede
+00h23m12s "That's the Way It Is (intro)" - Charles Deenen
+00h30m46s "Twistin'88 - Part 2" - Thomas E. Petersen (Laxity)
+00h34m18s "Silence" - Thomas Mogensen (DRAX)
+00h37m07s "Take Over" - Klaus Grøngaard (Link)
+00h38m15s "Hollow+" - Jens-Christian Huus
+00h39m17s "Kinetix" - Jeroen Tel
+00h41m53s "Street Cred Boxing" - Johannes Bjerregaard
+00h45m28s "Dynamic Range" - Michael Hendriks
+00h47m39s "Krakout" - Ben Daglish
+00h50m25s "Garfield" - Neil Baldwin (Demon)
+00h54m23s "Nibbly'92" - Thomas Mogensen (DRAX)
+00h57m14s "Fist II - The Legend Continues" - Neil Brennan
+00h58m15s "Enlightenment: Druid II" - David M. Hanlon
+00h59m32s "The Last Ninja" - Anthony Lees
+
+
+SECTOR 07
+
+00h00m00s "Armalyte" - Martin Walker
+00h03m32s "Auf Wiedersehen Monty" - Rob Hubbard & Ben Daglish
+00h09m31s "The last V8" - Rob Hubbard
+00h11m50s "Last Ninja 2" - Matt Gray
+00h17m26s "Bulldog" - Ben Daglish
+00h19m57s "Poltergeist" - David Whittaker
+00h24m30s "Eagles" - Johannes Bjerregaard
+00h25m26s "The Great Giana Sisters" - Chris Hülsbeck
+00h26m39s "Ghosts'n Goblins" - Mark Cooksey
+00h30m29s "Crazy Comets" - Rob Hubbard
+00h35m05s "Hunter's Moon" - Matt Gray
+00h35m55s "Scout" - Jeroen Tel
+00h40m00s "A Little Sample" - Michael Hendriks
+00h42m40s "Ikari Intro Song" - Thomas E. Petersen (Laxity)
+00h43m26s "S-Express" - Jeroen Tel
+00h45m14s "Footballer of the Year" - Ben Daglish
+00h47m16s "Layla Mix" - Edwin van Santen
+00h49m07s "Artax" - Jeroen Soede
+00h51m45s "Savage" - Jeroen Tel
+00h57m45s "Platou" - Markus Schneider & Jens Blidon
+01h01m20s "Ikari Intro" - Thomas E. Petersen (Laxity)
+
+
+
+SECTOR 08
+
+00h00m00s "Hawkeye" - Jeroen Tel
+00h06m23s "Last Ninja 3" - Reyn Ouwehand
+00h11m09s "Platoon" - Jonathan Dunn
+00h14m18s "Last Ninja 2" - Matt Gray
+00h22m04s "MacGyver Title" - Jeroen Soede
+00h23m28s "The Corporation" - Adam Gilmore
+00h25m36s "Zoids" - Rob Hubbard
+00h30m16s "Maximum Overdrive II (intro)" - Henrik Buus Jensen
+00h33m39s "Professional BMX Simulator" - Matt Gray
+00h34m47s "Rhaa Lovely II" - Jeroen Kimmel (Red)
+00h37m51s "Spriffs II" - Ward Selles
+00h39m23s "Public Enemy" - Thomas E. Petersen (Laxity)
+00h40m17s "Out Run" - Jason C. Brooke
+00h43m28s "The Way of the Exploding Fist" - Neil Brennan
+00h44m52s "Game Music 3" - Jeroen Kimmel (Red)
+00h49m59s "Revenge of Doh" - Jonathan Dunn
+00h52m02s "International Karate" - Rob Hubbard
+01h02m44s "Firelord" - Ben Daglish
+01h03m06s "Defender of the Crown" - Richard Joseph
+
+
+SECTOR 09
+
+00h00m00s "Robocop 3" - Jeroen Tel
+00h03m55s "Double Dragon" - Charles Deenen
+00h07m07s "Cybernoid II" - Jeroen Tel
+00h12m52s "Cool Tune" - Charles Deenen
+00h13m41s "Warhawk" - Rob Hubbard
+00h18m04s "The Big Deal" - Jeroen Kimmel
+00h21m14s "The Last Ninja" - Ben Daglish
+00h25m11s "Nemesis the Warlock" - Rob Hubbard
+00h32m03s "Grand Monster Slam" - Chris Hülsbeck
+00h35m40s "Hawkeye" - Jeroen Tel
+00h36m42s "Zybex" - Adam Gilmore
+00h39m07s "Lightforce" - Rob Hubbard
+00h46m11s "Cobra" - Ben Daglish
+00h49m17s "TrailMix (intro)" - Jeroen Soede
+00h50m43s "Storm" - David Whittaker
+00h51m47s "Soldier of Light" - Charles Deenen & Jeroen Tel
+00h52m49s "Rambo: First Blood Part II" - Martin Galway
+00h55m52s "Sanxion" - Rob Hubbard
+
+
+SECTOR 10
+
+00h00m00s "Double Density Commercial" - Markus Schneider
+00h04m05s "Dutch Breeze: Flip the Flop" - Reyn Ouwehand
+00h06m34s "Beastie Boys Intro Music" - Thomas E. Petersen (Laxity)
+00h08m45s "Synth Sample III" - Rob Hubbard
+00h09m30s "Rocky Star" - Kim Christensen (Future Freak)
+00h13m31s "3545 II" - Thomas E. Petersen (Laxity)
+00h17m09s "Cooperation Demo" - Kim Christensen (Future Freak)
+00h21m00s "Something" - Thomas E. Petersen (Laxity)
+00h22m32s "That's the Way It Is (main)" - Jeroen Tel
+00h29m30s "Zoom" - Johannes Bjerregaard
+00h30m16s "Shape" - Johannes Bjerregaard
+00h32m11s "Crazy Sample II" - Jeroen Kimmel (Red)
+00h35m53s "UniTechno" - Thomas Mogensen (DRAX)
+00h38m51s "Gaplus" - Jeroen Tel
+00h44m30s "RWE Intro" - Charles Deenen
+00h45m49s "Twistin'88 - Part 1" - Thomas E. Petersen (Laxity)
+00h48m28s "Simple Music" - Jeroen & Michiel Soede
+00h49m49s "Laxace" - Thomas E. Petersen (Laxity)
+00h52m37s "Eagles" - Johannes Bjerregaard
+00h53m23s "Zoolook" - Rob Hubbard
+00h57m33s "The Master of Magic" - Rob Hubbard
+01h02m49s "The Magic Writer (tune 00)" - Jens Blidon
+01h04m46s "Saxophone" - Wojciech Wojtkiewicz (Tracker)
+
+

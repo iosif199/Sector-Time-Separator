@@ -1,0 +1,21 @@
+SECTOR 08 - 01h04m05s
+
+00h00m00s "Hawkeye" - Jeroen Tel
+00h06m23s "Last Ninja 3" - Reyn Ouwehand
+00h11m09s "Platoon" - Jonathan Dunn
+00h14m18s "Last Ninja 2" - Matt Gray
+00h22m04s "MacGyver Title" - Jeroen Soede
+00h23m28s "The Corporation" - Adam Gilmore
+00h25m36s "Zoids" - Rob Hubbard
+00h30m16s "Maximum Overdrive II (intro)" - Henrik Buus Jensen
+00h33m39s "Professional BMX Simulator" - Matt Gray
+00h34m47s "Rhaa Lovely II" - Jeroen Kimmel (Red)
+00h37m51s "Spriffs II" - Ward Selles
+00h39m23s "Public Enemy" - Thomas E. Petersen (Laxity)
+00h40m17s "Out Run" - Jason C. Brooke
+00h43m28s "The Way of the Exploding Fist" - Neil Brennan
+00h44m52s "Game Music 3" - Jeroen Kimmel (Red)
+00h49m59s "Revenge of Doh" - Jonathan Dunn
+00h52m02s "International Karate" - Rob Hubbard
+01h02m44s "Firelord" - Ben Daglish
+01h03m06s "Defender of the Crown" - Richard Joseph
