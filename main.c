@@ -31,7 +31,7 @@ FILE *FileOpenner(const char *fname, const char *method);
 short int LineType(const char *line);
 void AddSong(FILE *file, Time *offset, char *red_line, bool *reset);
 void FixSongTime(Time *song_t, Time offset_t);
-void AddSongToOutput(FILE *output, Time *s_times, char *contents);
+void AddSongToOutput(FILE *output, const Time *s_times, const char *contents);
 
 int main(void)
 {
@@ -107,11 +107,9 @@ short int LineType(const char *line)
  * NELINE, if only a newline is red
  * -1, in any other case
 */
-    if(
-	   (toupper(*(line + 2)) == 'H') &&
-       (toupper(*(line + 5)) == 'M') &&
-       (toupper(*(line + 8)) == 'S')
-	  )
+    if( (toupper(*(line + 2)) == 'H') &&
+        (toupper(*(line + 5)) == 'M') &&
+        (toupper(*(line + 8)) == 'S') )
 		return SONG;
     else if(strncmp(line, "SECTOR", 6) == 0)
 		return NEW_SECTOR;
@@ -132,8 +130,8 @@ void AddSong(FILE *out, Time *offset, char *red_line, bool *reset)
     Time song_time;
     FILE *tmp;
 
-    //A temporary file is created to put the contents of the line,
-    // to make our life easier at extracting the timestamps
+    //A temporary file is created to put the contents of the given
+    // line, to make our life easier at extracting the timestamps
     tmp = tmpfile();
     fputs(red_line, tmp);
     rewind(tmp);
@@ -153,7 +151,7 @@ void AddSong(FILE *out, Time *offset, char *red_line, bool *reset)
         offset->seconds = song_time.seconds;
         *reset = false;
 
-        //The fist song has a complete 0 timestamp (obviously =P)
+        //The fist song of the sector => complete 0 timestamp
         fprintf(out, "00h00m00s %s\n", red_line);
     }
     else
@@ -173,23 +171,30 @@ void FixSongTime(Time *song, Time offset)
  *  be taken into consideration at the next song.
  *
  * The correction is made by subtracting the timestamp of the offset
- *  from the song's timestamp. When there aren't enough seconds or
- *  minutes to be subtracted, a minute or hour is added accordingly,
+ *  from the song's timestamp (song - offset). When there aren't enough
+ *  seconds or minutes to be subtracted, a minute or hour is added accordingly,
  *  and then the subtraction takes place with 60 seconds/minutes added
- *  (and of course it's with +60 because we are dealing with time)
+ *  (and of course it's with +60 because we are dealing with time).
 */
 
     //Checks to see if correct values have been given
-    if(
-       (offset.hours > song->hours) ||
-       (offset.minutes > 59) || (song->minutes > 59) ||
-       (offset.seconds > 59) || (song->seconds > 59)
-      )
+    if( (offset.minutes > 59) || (offset.seconds > 59) )
     {
-        printf("Invalid offset or song time format!\n");
+        printf("Invalid offset!\n");
+        return;
+    }
+    if( (song->minutes > 59) || (song->seconds > 59) )
+    {
+        printf("Invalid song timestamps!\n");
+        return;
+    }
+    if( offset.hours > song->hours )
+    {
+        printf("Invalid offset hours of song hours!\n");
         return;
     }
 
+    //Fixes the:
     //Seconds
     if(offset.seconds > song->seconds)
     {
@@ -210,12 +215,12 @@ void FixSongTime(Time *song, Time offset)
     song->hours -= offset.hours;
 }
 
-void AddSongToOutput(FILE *output, Time *s_times, char *contents)
+void AddSongToOutput(FILE *output, const Time *s_times, const char *contents)
 {
 /* Procedure which adds a given song to the output file.
- * If the hours or minutes or seconds aren't two digit numbers,
+ * If the hours/minutes/seconds aren't two digit numbers,
  *  a 0 is being added at the front, to make the file's alignment
- *  pretty, and also make the file easily readable
+ *  pretty and also make the file easily readable.
 */
     if((s_times->hours / 10) <= 0) fputc('0', output);
     fprintf(output, "%uh", s_times->hours);
